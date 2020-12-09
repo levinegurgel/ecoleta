@@ -1,1 +1,1 @@
-# ecoleta-api
+# ecoleta
